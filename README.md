@@ -1,7 +1,7 @@
 # Projet Web Services DIC3
 
 ## Requirements Jars
-[a link](lib/)
+[lib](lib/)
 
 ## Authors
 * **Aliou Diallo** *DIC3 TR*
